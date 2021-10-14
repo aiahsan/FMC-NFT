@@ -1,0 +1,284 @@
+@media screen and (max-width: 1045px) {
+  .left-portion{
+    max-width: 538px;
+  }
+  .kjse-d{
+    flex-direction: column;
+  }
+  .kahfsdff{
+    margin-right: 10%;
+    padding: 10px 8px;
+  }
+  .input-mint{
+    min-width: 100%;
+  }
+  
+ .mnt-s .card-parent{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  margin: auto;
+  margin-top: 10%; 
+}
+ .mintform .left-portion p{
+text-align: left ; 
+}
+.mnt-s .home-main{
+  flex-direction: column!important;
+  margin: auto;
+ }
+ .mnt-s .left-portion{
+max-width: 100%;
+justify-content: center;
+display: flex;
+align-items: center; 
+}
+.left-portion p{
+  text-align: center;
+}
+ .mnt-s .home-main{
+  flex-direction: column;
+ }
+ 
+}
+@media screen and (max-width: 1250px) {
+  .road-p
+  {background-image: none;}
+  
+  .rdmap{
+    align-items: center;
+  }
+  
+}
+@media screen and (max-width: 1730px) {
+  .owl-theme .owl-nav{
+    left: 0;
+    width: 100%;
+    z-index: 1;
+   }
+}
+@media screen and (max-width: 554px) {
+  .team-iner{
+    justify-content: center;
+  }
+  .m16{
+    padding-top: 30%!important;
+  }
+  
+  .roadcard h2{
+   font: normal normal 300 61px/80px Poppins;
+   transform: rotate( 
+0deg);
+  }
+  .roadcard p{
+    padding: 0px 15px;
+  }
+  .roadcard h3{
+    text-align: center;
+  }
+  .roadcard{
+    flex-direction: column;
+  }
+  .gallery h1::before{
+    right: -38px;
+     top: -3px;
+  }
+  .left-portion h1,.about h1,.roadmap h1,.team h1{
+font: normal normal bold 39px/57px Poppins;
+    text-align: center;
+}
+  .faq h2,.faq p {
+    font: normal normal bold 28px/40px Poppins;
+ 
+  }
+  .left-portion p ,.about p,.roadcard p,.team p{
+  font: normal normal normal 16px/36px Poppins;
+  text-align: center;
+  }
+  .faq .accordion .card-body{
+    font: normal normal normal 14px/20px Poppins;
+
+  }
+  .faq .accordion .card{
+    border-radius: 10px!important;
+  }
+  .faq .accordion .card-header button span
+  {
+    font: normal normal bold 14px/20px Poppins;
+    
+  }
+  .card-header{
+    padding: 0.75rem 0.25rem;
+  }
+  .about p{
+    margin-top: 20px;
+  }
+  .about h1{
+    margin-top: 20px!important;
+  }
+
+
+
+  .inner-card{
+    position: relative;
+    left: 0;
+  }
+  .roadactive .final-per,.cst-pr50 .final-per
+  {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+  
+  .roadactive .final-per{
+    margin-bottom:    0px;
+  }
+  .cst-h-sm-bx h2{
+    margin-bottom: 0px
+  }
+}
+@media screen and (max-width: 768px) {
+  .m16{
+    padding-top: 25%;
+  }
+  .kahfsdff{
+    padding: 62px 11px;
+    width: 90%;
+  }
+  .input-mint{
+    min-width: 257px;
+    height: 55px;
+  }
+  
+  .input-mint-label{
+    font: normal normal 500 16px/33px Poppins;
+    padding: 6px 0px;
+    margin-bottom: 0px;
+  }
+  .left-portion h1, .faq h2{
+    text-align: center;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .card-parent{
+    margin-top: 10%;
+  }
+  .kahfsdff{
+    margin-right: 0px;
+  }
+
+  .footer :nth-child(1)  
+{
+ flex: 100%; 
+}
+  .vc-nav{
+flex-direction: column;
+  }
+.mintform{
+  flex-direction: column;
+}
+.kahfsdff{
+  margin-left: 0px;
+}
+.kasdfhid3{
+  padding-bottom: 10%;
+}
+  .home-main{
+  flex-direction: column;
+  align-items: center;
+}
+.col-d-no{
+  display: none;
+}
+.aboutus .row
+{
+  flex-direction: column;
+}
+.faq{
+  max-width: 90%!important;
+  padding: 10px;
+ }
+}
+@media screen and (max-width: 1600px) {
+ .container,header .navbar{
+   max-width: 1440px!important;
+ }
+  .navbar a,.nav-btn{
+  font: normal normal normal 16px/28px Courier Prime!important;
+ }
+ .nav-btn
+ {height: 54px;}
+
+ .head-main-footer{
+   font: normal normal bold 30px/64px Poppins;
+ }
+ .foter-sub-head{
+   font: normal normal bold 20px/64px Poppins;
+ }
+ .foter-sub-a1,.foter-sub-a {
+   font: normal normal 300 18px/40px Poppins;
+   max-width: 420px;
+ }
+}
+@media screen and (max-width: 425px) {
+  .navbar-dark .navbar-nav .nav-link{
+    font-size: 12px!important;
+  }
+  .left-portion h1, .faq h2,.gallery h1,.ownship h1
+  {
+  font: normal normal bold 22px/30px Inter!important;
+  }
+  .ownship .justify-content-between{
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 1440px) {
+  .footer-p {
+    max-width: 95%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .footer :nth-child(1){
+    text-align: center;
+  }
+  .fmc-desc label, .lbb-min-desc{
+    text-align: center;
+  }
+  .left-portion .kjse-d,.lbb-min-desc {
+    margin: auto;
+  }
+  .mintform .left-portion p{
+    text-align: center;
+  }
+  .fmc-desc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .card-parent,.card-mn,.fmc-desc label, .lbb-min-desc
+  {
+    max-width: 100%;
+    width: 100%;
+  }
+  .ownship h1{
+    font: normal normal bold 45px/62px Inter;
+  }
+  .footer {
+    flex-direction: column;
+    align-items: center;
+  }
+  .foter-sub-head {
+      margin-top: 50px;
+    }
+  
+    .foter-sub-head,
+    .foter-sub-a {
+      text-align: center;
+    }
+}  
